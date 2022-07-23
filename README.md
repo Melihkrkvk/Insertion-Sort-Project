@@ -45,7 +45,7 @@ n+(n-1)+(n-2)+.....+1 = n.(n+1)/2
 
 3. [22,27,16,2,18,6] Time complexity for this array we expect it to happen **avarage case**
 
-4. [2,6,16,18,22,27] after the array is sorted, the number 18 is in the middle of the array, so it enters the average state
+4. [2,6,16,18,22,27] after the array is sorted, the number 18 is in the middle of the array, so it enters the average case
 
 ---
 
@@ -59,6 +59,6 @@ n+(n-1)+(n-2)+.....+1 = n.(n+1)/2
 
 4. [2,3,4,5,7,6,8,15,7]
 ---
-[patika.dev](www.patika.dev)
+[patika.dev](https://app.patika.dev/)
 
 
